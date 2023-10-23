@@ -64,12 +64,8 @@ export const aboutData = [
     title: "experience",
     info: [
       {
-        title: "UX/UI Designer - RJB Xclusive",
-        stage: "2021 - till date",
-      },
-      {
-        title: "Web Developer - Digital Solutions NG",
-        stage: "2022 - till date",
+        title: "Web Developer - Codefeast",
+        stage: "July 2023 - Present",
       },
     ],
   },
